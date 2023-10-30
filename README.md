@@ -1,6 +1,6 @@
 # ERMAC-2-Hook-Android-Bot
 
-FulFull APK source code + Panel
+Full APK source code + Panel
 
 I will install a bot for you for a small fee
 
